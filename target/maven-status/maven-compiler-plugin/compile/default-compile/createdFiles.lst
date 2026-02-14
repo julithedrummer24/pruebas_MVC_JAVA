@@ -1,0 +1,6 @@
+modelo\Producto.class
+vista\VistaNeto.class
+controlador\ControlProducto.class
+vista\VistaParcial.class
+com\mycompany\gestionproductos\GestionProductos.class
+vista\VistaGestor.class
